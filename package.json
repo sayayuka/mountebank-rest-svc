@@ -1,0 +1,17 @@
+{
+  "name": "mountebank-rest-svc",
+  "version": "1.0.0",
+  "description": "Use mountebank to mock rest services",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Chris",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "csv": "^5.3.1",
+    "csv-parser": "^2.3.2",
+    "mountebank": "^2.1.2",
+    "node-fetch": "^2.6.0"
+  }
+}

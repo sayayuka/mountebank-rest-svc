@@ -1,0 +1,8 @@
+USERS_SYS_ID,USERS_SYS_USERNAME,USERS_SYS_LASTNAME,USERS_SYS_FIRSTNAME,USERS_SYS_MI,USERS_SYS_MANAGERUID,USERS_SYS_EMAIL,USERS_SYS_VALID
+admin,admin,User,Admin,NULL,cg1,admin.user@mock-rest.com,t
+cg1,cg,Granet,Charles,NULL,superadmin,charles.granet@mock-rest.com,t
+usera,usera,UserA,FA,NULL,cg1,usera.fa@mock-rest.com,t
+userb,userb,UserB,FB,NULL,cg1,userb.fb@mock-rest.com,t
+userc,userc,UserC,FC,NULL,cg1,userc.fc@mock-rest.com,t
+userd,userd,UserD,FD,NULL,cg1,userd.fd@mock-rest.com,t
+superadmin,superadmin,User,Superadmin,NULL,cg1,superadmin.user@mock-rest.com,t
